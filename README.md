@@ -10,7 +10,7 @@ You will find the necessary details in each repostory.
 
 ## Overview of the application architecture
 
-![Diagram](https://drive.google.com/file/d/1n_JQS00VC3gVq3iOkKpeNZ5KoW08jM91/view?usp=share_link)
+![Diagram](https://github.com/devomr/mvx-hackathon/xcoffee-architecture.png)
 
 ## xCoffee dApp
 
